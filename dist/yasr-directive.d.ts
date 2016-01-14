@@ -1,5 +1,5 @@
-declare namespace fi.seco.yasqe {
-    class YasqeDirective {
+declare namespace fi.seco.yasr {
+    class YasrDirective {
         private $timeout;
         constructor($timeout: angular.ITimeoutService);
         restrict: string;

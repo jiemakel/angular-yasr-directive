@@ -1,16 +1,16 @@
 {
-  "name": "angular-yasqe-directive",
+  "name": "angular-yasr-directive",
   "version": "1.0.0",
   "authors": [
     "Eetu Mäkelä <eetu.makela@iki.fi>"
   ],
-  "description": "Angular directive wrapping YASQE",
-  "main": "dist/yasqe-directive.js",
+  "description": "Angular directive wrapping YASR",
+  "main": "dist/yasr-directive.js",
   "license": "MIT",
-  "homepage": "https://github.com/jiemakel/angular-yasqe-directive",
+  "homepage": "https://github.com/jiemakel/angular-yasr-directive",
   "dependencies": {
     "angular": "~1.4.8",
-    "yasgui-yasqe": "~2.7.2"
+    "yasgui-yasr": "~2.6.3"
   },
   "ignore": [
     "**/.*",
